@@ -3,7 +3,8 @@
 [English](./README.md) / [日本語](./README_ja.md)
 
 This is an external software for enabling server transfers between players in BDS.
-
+# This repository was archived.  
+Please Use [SKYNETWORK-MCBE/bds-enhancer](https://github.com/SKYNETWORK-MCBE/bds-enhancer).
 ## How to run
 
 1. Download the latest `bds_enhancer.exe` from [Releases](https://github.com/Lapis256/bds-enhancer/releases).
